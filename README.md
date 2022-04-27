@@ -1,4 +1,3 @@
-# PV080-seccode-materials
+# Secure programming
 
-
-A simple fork from https://gitlab.fi.muni.cz/pv080-students/secure-programming.git), just to make the files available to wget/curl/Invoke-WebRequest.
+This repository contains the vulnerable code examples for 11th seminar of PV080 course (Spring 2022). The code is not meant to be run. Hence, no setup is needed.
